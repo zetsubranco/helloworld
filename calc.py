@@ -1,3 +1,1 @@
-print("Hello World")
-print("Olá Mundo")
-print("Hola")
+print("----\njogo da tabuada\n----")
